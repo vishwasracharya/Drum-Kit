@@ -3,8 +3,7 @@
 <a href="https://github.com/vishwasracharya/Drum-Kit/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Drum-Kit?color=orange"></a>
 
 Another website project which has a Drum Kit, I made it during the learning process of JavaScript.
-
-Link to website 👉 <a href="https://vishwasracharya.github.io/Drum-Kit">https://vishwasracharya.github.io/Drum-Kit</a>
+> https://vishwasracharya.github.io/Drum-Kit
 
 # Tech/Language Used
 - HTML
