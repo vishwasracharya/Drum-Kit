@@ -2,7 +2,7 @@
 <a href="https://github.com/vishwasracharya/Drum-Kit/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/Drum-Kit?color=blue"></a>
 <a href="https://github.com/vishwasracharya/Drum-Kit/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Drum-Kit?color=orange"></a>
 
-Another website project which has a Drum Kit, I made it during the learning process of JavaScript.
+Another basic project which has a Drum Kit, I made it during the learning process of JavaScript.
 > https://vishwasracharya.github.io/Drum-Kit
 
 # Tech/Language Used
